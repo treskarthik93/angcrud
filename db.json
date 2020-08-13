@@ -1,0 +1,88 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "msd",
+      "gender": "Male",
+      "contactPreference": "Email",
+      "phoneNumber": "9176723291",
+      "email": "msd@gmail.com",
+      "dateOfBirth": "2020-08-12",
+      "department": "5",
+      "isActive": true,
+      "photoPath": "assets/images/msd.jpg",
+      "password": "123",
+      "confirmpassword": "123"
+    },
+    {
+      "id": 2,
+      "name": "kohli",
+      "gender": "Male",
+      "contactPreference": "Email",
+      "phoneNumber": "9176723292",
+      "email": "kohli@gmail.com",
+      "dateOfBirth": "2020-08-12",
+      "department": "3",
+      "isActive": true,
+      "photoPath": "assets/images/virat.jpg",
+      "password": "123",
+      "confirmpassword": "123"
+    },
+    {
+      "id": 3,
+      "name": "yuvaraj",
+      "gender": "Male",
+      "contactPreference": "Email",
+      "phoneNumber": "9176723293",
+      "email": "yuvaraj@gmail.com",
+      "dateOfBirth": "2020-08-12",
+      "department": "3",
+      "isActive": true,
+      "photoPath": "assets/images/yuvaraj.jpg",
+      "password": "123",
+      "confirmpassword": "123"
+    },
+    {
+      "id": 4,
+      "name": "sania",
+      "gender": "Female",
+      "contactPreference": "Phone",
+      "phoneNumber": "9176723294",
+      "email": "sania@gmail.com",
+      "dateOfBirth": "2020-08-12",
+      "department": "2",
+      "isActive": true,
+      "photoPath": "assets/images/saina.jpeg",
+      "password": "123",
+      "confirmpassword": "123"
+    },
+    {
+      "id": 5,
+      "name": "sindu",
+      "gender": "Female",
+      "contactPreference": "Phone",
+      "phoneNumber": "9176723295",
+      "email": "sindu@gmail.com",
+      "dateOfBirth": "2020-08-12",
+      "department": "2",
+      "isActive": true,
+      "photoPath": "assets/images/sindu.jpeg",
+      "password": "123",
+      "confirmpassword": "123"
+    },
+    {
+      "id": 6,
+      "name": "sindu",
+      "gender": "Female",
+      "contactPreference": "Email",
+      "phoneNumber": "9176723295",
+      "email": "sindu@gmail.com",
+      "dateOfBirth": "2020-08-12",
+      "department": "3",
+      "isActive": true,
+      "photoPath": "assets/images/sindu.jpeg",
+      "password": "123",
+      "confirmpassword": "123"
+    }
+  ]
+}
